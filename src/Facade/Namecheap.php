@@ -1,6 +1,6 @@
 <?php
 
-namespace GotCreations\Namecheap\Facade;
+namespace Ouchestech\Namecheap\Facade;
 
 use Illuminate\Support\Facades\Facade;
 use Namecheap\Domain\Domains;
