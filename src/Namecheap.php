@@ -1,7 +1,7 @@
 <?php
 
 
-namespace GotCreations\Namecheap;
+namespace Ouchestech\Namecheap;
 
 
 use Namecheap\Api;
